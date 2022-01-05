@@ -8,3 +8,7 @@ if(input2 == "purple" && input2 == "Purple")
 {
     Console.WriteLine(input2 + " huh you have good tastes");
 }
+else
+{
+    Console.WriteLine(input2 + "huh Purple is a better color");
+}
