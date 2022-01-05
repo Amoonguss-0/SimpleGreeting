@@ -18,6 +18,10 @@ string input3 = Console.ReadLine();
 
 if(input3 == "yes" || input3 == "Yes" || input3 == "y")
 {
-    Console.WriteLine("Thats not very cool of you " + input1 + " you should sell me a RTX 3080 at MSRP though. Ill pay for taxes as well.");
+    Console.WriteLine("Thats not very cool of you " + input1 + " you should sell me a RTX 3080ti at MSRP though. Ill pay for taxes as well.");
+}
+else
+{
+    Console.WriteLine("Good scalpers suck. good luck on getting a new RTX card");
 }
 Console.ReadKey();
